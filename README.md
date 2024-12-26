@@ -4,7 +4,7 @@ It recognises gestures (e.g., index finger for drawing, thumb for clearing) and 
 **Features**
 1) Gesture-based drawing with real-time webcam input.
 2) Virtual canvas interaction.
-3) AI integration for analysing drawings (planned).
+3) AI integration for analysing drawings.
    
 **Technologies**
 Python, OpenCV, HandTrackingModule, Streamlit, Pillow, Google Generative AI.
